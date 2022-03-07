@@ -7,6 +7,9 @@
   align-items: center;
   justify-content: center;
 }
+.cover:hover .cover__overlay {
+  background: rgb(42, 44, 47, 0.8);
+}
 @media screen and (max-width: 1024px) {
   .cover {
     min-height: 640px;
