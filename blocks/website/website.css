@@ -1,0 +1,13 @@
+.website {
+  list-style: none;
+  grid-column: 2;
+  grid-row: 1;
+  align-self: end;
+}
+@media screen and (max-width: 425px) {
+  .website {
+    grid-column: 1;
+    grid-row: 2;
+    margin: 0 16px;
+  }
+}

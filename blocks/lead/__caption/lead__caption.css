@@ -14,7 +14,7 @@
     letter-spacing: 0.09375rem;
   }
 }
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 425px) {
   .lead__caption {
     margin-left: 16px;
     font-size: 0.625rem;
